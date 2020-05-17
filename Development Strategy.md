@@ -1,12 +1,12 @@
 # Development Strategy
 
-> `HYF Dream-team`
+> `team brunches group 2`
 
 write a short description of your web page:
 
 - This page about the students group 2 of class 9-10
 - Site visitor can to introduce more close with any students of our group
-- It will help to site visitor
+- It will help to site visitor get to know us better
 
 ## 0. Set-Up
 
