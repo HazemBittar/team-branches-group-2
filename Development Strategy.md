@@ -39,7 +39,7 @@ Wrote an introduction to the team and added a list with all of our names.
 
 ---
 
-## 2. User Story: introducing _name_
+## 2. User Story: introducing _Olga_
 
 __As a site visitor, I want to learn more about *Olga*__
 
@@ -47,7 +47,7 @@ __As a site visitor, I want to learn more about *Olga*__
 
 This user story was developed on a brach called `2-Olga`
 
-### name.md
+### Olga.md
 
 Write a markdown bio page for this team member
 
@@ -57,15 +57,15 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 3. User Story: introducing _name_
+## 3. User Story: introducing _Kateryna_
 
-__As a site visitor, I want to learn more about *name*__
+__As a site visitor, I want to learn more about *Kateryna*__
 
 ### Repo
 
-This user story was developed on a brach called `3-name`
+This user story was developed on a brach called `3-Kateryna`
 
-### name.md
+### Kateryna.md
 
 Write a markdown bio page for this team member
 
