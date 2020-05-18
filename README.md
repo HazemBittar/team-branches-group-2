@@ -7,7 +7,7 @@ We start our learning in Mai 2020.
 
 ### Students:
 - [Olga](./Olga.md)
-- Kateryna
+- [Kateryna](./Kateryna.md)
 - Razvan
 - Ismail
 - Hazem
