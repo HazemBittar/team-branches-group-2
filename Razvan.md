@@ -1,4 +1,4 @@
-# Ravzan Burtea
+# Razvan Burtea
 
 _Future Hack Crew Student_
 
