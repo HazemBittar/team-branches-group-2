@@ -4,7 +4,7 @@
 
 write a short description of your web page:
 
-- This page about the students group 2 of class 9-10
+- This page about the students group 2 of classes 9-10
 - Site visitor can to introduce more close with any students of our group
 - It will help to site visitor get to know us better
 
@@ -25,9 +25,9 @@ __A User can see my initial repository and live demo__
 
 ---
 
-## 1. User Story: about your team
+## 1. User Story: about team group 2
 
-__As a site visitor, I want to know about your team and who is in it__
+__As a site visitor, I want to know about team group 2 and who is in it__
 
 ### Repo
 
