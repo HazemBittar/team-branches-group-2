@@ -75,7 +75,21 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-... fill out one section for each team member ...
+## 4. User Story: introducing _Razvan_
+
+__As a site visitor, I want to learn more about *Razvan*__
+
+### Repo
+
+This user story was developed on a brach called `4-Razvan`
+
+### Razvan.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
 
 ---
 
