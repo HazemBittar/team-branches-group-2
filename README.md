@@ -6,7 +6,7 @@ We start our learning in Mai 2020.
 ### Our coach - Tiago
 
 ### Students:
-- Olga
+- [Olga](./Olga.md)
 - Kateryna
 - Razvan
 - Ismail
